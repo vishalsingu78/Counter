@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#container{
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-color: aquamarine;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold
+}
+h2{
+    font-size: 100px;
+}
+button{
+    width: 90px;
+    height: 30px;
+    background-color: silver;
+    border-radius: 5px;
+    border: 2px solid black;
+    text-shadow: 2px 2px 2px white;
+    font-weight: bold;
+    background-color: transparent;
+}
